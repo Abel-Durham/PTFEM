@@ -4,8 +4,6 @@
 % problem17_axisymmetric.m
 % 2D aixsymmetric problem
 % original create by antonio ferreira 2008
-% modified by SC.Zhang   2020
-
 % clear memory
 clc
 clear all;colordef white;clf
